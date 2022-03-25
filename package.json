@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Chamerli-sh/Programming-language-algo/issues"
   },
-  "homepage": "https://github.com/Chamerli-sh/Programming-language-algo#readme"
+  "homepage": "https://github.com/Chamerli-sh/Programming-language-algo#readme",
+  "dependencies": {
+    "inquirer": "^8.2.1"
+  }
 }
